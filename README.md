@@ -1,4 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/lagos-devs/hiddenwisdom-api.png?label=ready&title=Ready)](https://waffle.io/lagos-devs/hiddenwisdom-api)
+[![Stories in Ready](https://badge.waffle.io/lagos-devs/hiddenwisdom-api.png?label=ready&title=Ready)](https://waffle.io/lagos-devs/hiddenwisdom-api)
 [![CircleCI](https://circleci.com/gh/lagos-devs/hiddenwisdom-api.svg?style=svg)](https://circleci.com/gh/lagos-devs/hiddenwisdom-api)
 [![Coverage Status](https://coveralls.io/repos/github/lagos-devs/project-has-no-name-api/badge.svg?branch=master)](https://coveralls.io/github/lagos-devs/project-has-no-name-api?branch=master)
 [![Code Climate](https://codeclimate.com/github/lagos-devs/project-has-no-name-api/badges/gpa.svg)](https://codeclimate.com/github/lagos-devs/project-has-no-name-api)
